@@ -213,6 +213,6 @@ scr_srun: RUN 2: Wed Jan  2 11:24:26 PST 2013
 --------------------------------------------------------------------------------
 
 References
-1. A. Moody, G. Bronevetsky, K. Mohror, and B. R. de Supinski, "Design, modeling, and evaluation of a scalable multi-level checkpointing system," in Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis, ser. SC ’10. Washington, DC, USA: IEEE Computer Society, 2010, pp. 1–11.
+1. A. Moody, G. Bronevetsky, K. Mohror, and B. R. de Supinski, "Design, modeling, and evaluation of a scalable multi-level checkpointing system," in Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis, ser. SC Â’10. Washington, DC, USA: IEEE Computer Society, 2010, pp. 1Â–11.
 2. jemalloc, dynamic memory allocator, http://www.canonware.com/jemalloc/
 3. Valgrind http://valgrind.org/
